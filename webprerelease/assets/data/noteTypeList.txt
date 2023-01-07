@@ -1,7 +1,0 @@
-normal
-fire
-halo
-warning
-stun
-poison
-poisonmusthit
